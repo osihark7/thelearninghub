@@ -11,6 +11,7 @@ public class CourseDetails {
 	@Id
 	
 	private Long id;
+	private Long courseId;
 	
 
 }
