@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "rzp_key_id",
+    "type": "java.lang.String",
+    "description": "A description for 'rzp_key_id'"
+  },
+  {
+    "name": "rzp_key_secret",
+    "type": "java.lang.String",
+    "description": "A description for 'rzp_key_secret'"
+  },
+  {
+    "name": "rzp_currency",
+    "type": "java.lang.String",
+    "description": "A description for 'rzp_currency'"
+  },
+  {
+    "name": "rzp_company_name",
+    "type": "java.lang.String",
+    "description": "A description for 'rzp_company_name'"
+  }
+]}
